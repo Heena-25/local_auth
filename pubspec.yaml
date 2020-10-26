@@ -22,6 +22,11 @@ dependencies:
   flutter_plugin_android_lifecycle: ^1.0.2
 
 dev_dependencies:
+  flutter_driver:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.8.0
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
